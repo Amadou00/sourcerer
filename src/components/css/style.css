@@ -1,0 +1,17 @@
+.Info{
+    margin: 50px 0 0 20px;
+}
+.pseudo{
+    margin-left: 55px;
+}
+.title{
+    font-size: 50px;
+    margin: 50px 0 20px 0;
+}
+.desc{
+    font-size: 20px;
+    margin: 70px 0 20px 0;
+}
+.block-flex{
+    display: flex;
+}
